@@ -15,12 +15,6 @@ This is a simple and interactive URL Shortener web application built using **Rea
 
 ---
 
-## 📸 Screenshot
-
-![App Screenshot](./e72e2b8b-0e42-4ebc-9cb5-8dcaae35611e.png)
-
----
-
 ## 📁 Project Structure
 
 ```
@@ -62,7 +56,8 @@ npm run dev
 Visit: [http://localhost:5173](http://localhost:5173)
 
 ---
-ScreenShorts
+
+## 📸 Screenshot
 
 ![image](https://github.com/user-attachments/assets/3e49c0ff-cc71-4b97-b61a-fb98a7e6539d)
 
